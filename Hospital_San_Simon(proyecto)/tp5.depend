@@ -1,0 +1,418 @@
+# depslib dependency file v1.0
+1365041239 source:/home/angel/Dropbox/UTN/LAB2/tps/tp1/main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"funciones.h"
+	"articulo.h"
+	"venta.h"
+
+1376501139 
+
+1375884525 /home/angel/Dropbox/UTN/LAB2/tps/tp1/articulo.h
+
+1365041883 /home/angel/Dropbox/UTN/LAB2/tps/tp1/venta.h
+
+1364959100 /home/angel/Dropbox/UTN/LAB2/tps/tp1/funciones.h
+
+1375965288 source:c:\users\profesor\downloads\tp2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"funciones.h"
+	"articulo.h"
+
+1377178888 h"
+
+1375965326 c:\users\profesor\downloads\tp2\funciones.h
+
+1375970052 c:\users\profesor\downloads\tp2\articulo.h
+
+1375973629 source:/home/angel/Dropbox/UTN/LAB2/tps/tp2/main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"funciones.h"
+	"articulo.h"
+
+1375965326 /home/angel/Dropbox/UTN/LAB2/tps/tp2/funciones.h
+
+1376489723 /home/angel/Dropbox/UTN/LAB2/tps/tp2/articulo.h
+
+1376501139 source:/home/angel/Dropbox/UTN/LAB2/tps/tp3/main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"articulo.h"
+	"venta.h"
+
+1375965326 /home/angel/Dropbox/UTN/LAB2/tps/tp3/funciones.h
+
+1376501111 /home/angel/Dropbox/UTN/LAB2/tps/tp3/articulo.h
+
+1376501985 /home/angel/Dropbox/UTN/LAB2/tps/tp3/venta.h
+
+1377178888 source:c:\users\profesor\downloads\lab2\tp3\tp3\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"articulo.h"
+	"venta.h"
+	"listados.h"
+
+1375976126 c:\users\profesor\downloads\lab2\tp3\tp3\funciones.h
+
+1376667420 c:\users\profesor\downloads\lab2\tp3\tp3\articulo.h
+
+1377181583 c:\users\profesor\downloads\lab2\tp3\tp3\venta.h
+
+1377181311 c:\users\profesor\downloads\lab2\tp3\tp3\listados.h
+
+1377720171 source:/home/angel/Dropbox/UTN/LAB2/tps/tp4/main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"articulo.h"
+	"venta.h"
+	"listados.h"
+
+1375976126 /home/angel/Dropbox/UTN/LAB2/tps/tp4/funciones.h
+
+1376667420 /home/angel/Dropbox/UTN/LAB2/tps/tp4/articulo.h
+
+1377181583 /home/angel/Dropbox/UTN/LAB2/tps/tp4/venta.h
+
+1377720717 /home/angel/Dropbox/UTN/LAB2/tps/tp4/listados.h
+
+1378342076 source:/home/angel/Dropbox/UTN/LAB2/tps/tp5/main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"articulo.h"
+	"venta.h"
+	"listados.h"
+	"extras.h"
+
+1375976126 /home/angel/Dropbox/UTN/LAB2/tps/tp5/funciones.h
+
+1378345238 /home/angel/Dropbox/UTN/LAB2/tps/tp5/articulo.h
+
+1378342374 /home/angel/Dropbox/UTN/LAB2/tps/tp5/venta.h
+
+1377720717 /home/angel/Dropbox/UTN/LAB2/tps/tp5/listados.h
+
+1378345263 /home/angel/Dropbox/UTN/LAB2/tps/tp5/extras.h
+
+1567773850 source:c:\users\lucas greco\desktop\laboratorio carpeta 2018\2019\2da parte del a—o\lab\tp5\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Headers/pacientes.h"
+	"Headers/rlutil.h"
+	"Headers/menus.h"
+	"venta.h"
+	"listados.h"
+	"extras.h"
+
+1567118008 c:\users\lucas greco\desktop\laboratorio carpeta 2018\2019\2da parte del a—o\lab\tp5\funciones.h
+
+1567168858 c:\users\lucas greco\desktop\laboratorio carpeta 2018\2019\2da parte del a—o\lab\tp5\headers\pacientes.h
+
+1567163456 c:\users\lucas greco\desktop\laboratorio carpeta 2018\2019\2da parte del a—o\lab\tp5\venta.h
+
+1567163545 c:\users\lucas greco\desktop\laboratorio carpeta 2018\2019\2da parte del a—o\lab\tp5\listados.h
+
+1567163545 c:\users\lucas greco\desktop\laboratorio carpeta 2018\2019\2da parte del a—o\lab\tp5\extras.h
+
+1567773439 c:\users\lucas greco\desktop\laboratorio carpeta 2018\2019\2da parte del a—o\lab\tp5\headers\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1567777028 c:\users\lucas greco\desktop\laboratorio carpeta 2018\2019\2da parte del a—o\lab\tp5\headers\menus.h
+
+1568748580 source:e:\lab\tp5\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Headers/Fecha.h"
+	"funciones.h"
+	"Headers/pacientes.h"
+	"Headers/medicos.h"
+	"Headers/controles.h"
+	"Headers/rlutil.h"
+	"Headers/menus.h"
+	"venta.h"
+	"listados.h"
+	"extras.h"
+
+1567118008 e:\lab\tp5\funciones.h
+
+1568220688 e:\lab\tp5\headers\pacientes.h
+
+1567773440 e:\lab\tp5\headers\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1568758130 e:\lab\tp5\headers\menus.h
+
+1568146222 e:\lab\tp5\venta.h
+
+1568146256 e:\lab\tp5\listados.h
+
+1568146302 e:\lab\tp5\extras.h
+
+1568144162 e:\lab\tp5\headers\fecha.h
+
+1568220688 e:\lab\tp5\headers\medicos.h
+
+1568748450 e:\lab\tp5\headers\controles.h
+
+1569275700 source:e:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Headers/rlutil.h"
+	"Headers/Fecha.h"
+	"funciones.h"
+	"Headers/pacientes.h"
+	"Headers/medicos.h"
+	"Headers/controles.h"
+	"Headers/configuracion.h"
+	"Headers/reportes.h"
+	"Headers/menus.h"
+	"venta.h"
+	"listados.h"
+	"extras.h"
+
+1568144162 e:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\fecha.h
+
+1567118008 e:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\funciones.h
+
+1569279180 e:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\pacientes.h
+
+1569279180 e:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\medicos.h
+
+1569279180 e:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\controles.h
+
+1567773440 e:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1569279428 e:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\menus.h
+
+1568146222 e:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\venta.h
+
+1568146256 e:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\listados.h
+
+1568146302 e:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\extras.h
+
+1569258332 e:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\configuracion.h
+
+1569258332 e:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\reportes.h
+
+1569275700 source:c:\users\software development\desktop\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Headers/rlutil.h"
+	"Headers/Fecha.h"
+	"funciones.h"
+	"Headers/pacientes.h"
+	"Headers/medicos.h"
+	"Headers/controles.h"
+	"Headers/configuracion.h"
+	"Headers/reportes.h"
+	"Headers/menus.h"
+	"venta.h"
+	"listados.h"
+	"extras.h"
+
+1567773440 c:\users\software development\desktop\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1568144162 c:\users\software development\desktop\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\fecha.h
+
+1567118008 c:\users\software development\desktop\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\funciones.h
+
+1569279180 c:\users\software development\desktop\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\pacientes.h
+
+1569279180 c:\users\software development\desktop\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\medicos.h
+
+1569529811 c:\users\software development\desktop\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\controles.h
+
+1569258332 c:\users\software development\desktop\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\configuracion.h
+
+1569258332 c:\users\software development\desktop\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\reportes.h
+
+1569279428 c:\users\software development\desktop\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\menus.h
+
+1568146222 c:\users\software development\desktop\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\venta.h
+
+1568146256 c:\users\software development\desktop\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\listados.h
+
+1568146302 c:\users\software development\desktop\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\extras.h
+
+1569275700 source:f:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Headers/rlutil.h"
+	"Headers/Fecha.h"
+	"funciones.h"
+	"Headers/pacientes.h"
+	"Headers/medicos.h"
+	"Headers/controles.h"
+	"Headers/configuracion.h"
+	"Headers/reportes.h"
+	"Headers/menus.h"
+	"venta.h"
+	"listados.h"
+	"extras.h"
+
+1567773440 f:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1568144162 f:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\fecha.h
+
+1567118008 f:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\funciones.h
+
+1569533538 f:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\pacientes.h
+
+1569534484 f:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\medicos.h
+
+1569537670 f:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\controles.h
+
+1569258332 f:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\configuracion.h
+
+1569258332 f:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\reportes.h
+
+1569279428 f:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\menus.h
+
+1568146222 f:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\venta.h
+
+1568146256 f:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\listados.h
+
+1568146302 f:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\extras.h
+
+1569275700 source:d:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Headers/rlutil.h"
+	"Headers/Fecha.h"
+	"funciones.h"
+	"Headers/pacientes.h"
+	"Headers/medicos.h"
+	"Headers/controles.h"
+	"Headers/configuracion.h"
+	"Headers/reportes.h"
+	"Headers/menus.h"
+	"venta.h"
+	"listados.h"
+	"extras.h"
+
+1567773440 d:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1568144162 d:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\fecha.h
+
+1567118008 d:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\funciones.h
+
+1569533538 d:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\pacientes.h
+
+1569534484 d:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\medicos.h
+
+1569537670 d:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\controles.h
+
+1569258332 d:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\configuracion.h
+
+1569258332 d:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\reportes.h
+
+1569279428 d:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\headers\menus.h
+
+1568146222 d:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\venta.h
+
+1568146256 d:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\listados.h
+
+1568146302 d:\lab\tp_hospital _san_simon\hospital_san_simon(proyecto)\extras.h
+
