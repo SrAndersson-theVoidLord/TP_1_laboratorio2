@@ -1,6 +1,6 @@
 #ifndef MENUS_H_INCLUDED
 #define MENUS_H_INCLUDED
-
+/* [LNG 2023-06-11] - Definicion de los menús para las diferentes categorias.*/
 void menu_principal();
 void menu_pacientes();
 void menu_medicos();

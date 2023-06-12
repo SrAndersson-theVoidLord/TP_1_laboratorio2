@@ -1,19 +1,21 @@
 #ifndef CONFIGURACION_H_INCLUDED
 #define CONFIGURACION_H_INCLUDED
 
-
+/* [LNG 2023-06-11] - Men√∫ de configuracion que permite realizar
+Backups de los registros como tambien cargarlos mediante la funcion de sistema 
+que copia archivos en segundo plano */
 void back_up_registros();
 
 void back_up_registros(){
     int opc;
     while(true){
             system("cls");
-        cout<<"MEN⁄ CONFIGURACION"<<endl;
+        cout<<"MENÔøΩ CONFIGURACION"<<endl;
 cout<<"------------------"<<endl;
 cout<<"1) REALIZAR BACKUP DEL REGISTRO "<<endl;
 cout<<"2) RESTAURAR BACKUP DEL REGISTRO "<<endl;
 cout<<"--------------------------------"<<endl;
-cout<<"0) VOLVER AL MEN⁄ PRINCIPAL"<<endl;
+cout<<"0) VOLVER AL MENÔøΩ PRINCIPAL"<<endl;
 cin>>opc;
 switch(opc){
 case 1:

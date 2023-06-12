@@ -1,5 +1,6 @@
 #ifndef CONTROLES_H_INCLUDED
 #define CONTROLES_H_INCLUDED
+/* [LNG 2023-06-11] - Definicion del struct para la categoria de controles*/
 struct Control{
 
     int Id;
@@ -14,9 +15,11 @@ struct Control{
 
 
 
-
+/* [LNG 2023-06-11] - Definicion de la ruta del archivo binario de controles*/
 const char *FILE_Control = "Archivos/Controles.dat";
 
+/* [LNG 2023-06-11] - A continuación varias funciones que utilizan el archivo de controles
+para realizar varias operaciones, contar cantidad de registros, autonumerar controles, busqueda etc*/
 long cantidadRegistosControl(){
   long bytes=0;
   FILE *p;
@@ -132,6 +135,7 @@ struct Control obtenerControl(int pos){
   return reg;
 }
 
+/* [LNG 2023-06-11] - carga de control en el archivo de controles*/
 bool guardarControl(struct Control reg, int pos){
   FILE *p;
 

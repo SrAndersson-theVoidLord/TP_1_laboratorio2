@@ -1,5 +1,6 @@
 #ifndef MEDICOS_H_INCLUDED
 #define MEDICOS_H_INCLUDED
+/* [LNG 2023-06-11] - Definicion del struct para la categoria de médico, */
 struct Medico{
 
     int NroMatricula;
@@ -15,6 +16,7 @@ struct Medico{
   bool estado;*/
 };
 
+/* [LNG 2023-06-11] - Definicion de la ruta del archivo binario de Médicos*/
 const char *FILE_Medico = "Archivos/Medicos.dat";
 
 long cantidadRegistosMedico(){
